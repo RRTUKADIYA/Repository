@@ -5,6 +5,11 @@
 
 
 
+
+
+
+
+
     'name': 'customer sale relation ept',
     'version': '1.0',
     'category': 'Customer Sale',
