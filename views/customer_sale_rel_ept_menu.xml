@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+	<data>
+		<menuitem id="customer_sale_rel_ept_menu" action="customer_sale_rel_ept_action"
+			name="customer sale rel ept" />
+	</data>
+</odoo>
