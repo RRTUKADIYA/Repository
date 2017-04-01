@@ -2,14 +2,6 @@
 # Part of Odoo. See LICENSE file for full copyright and licensing details.
 
 {
-
-
-
-
-
-
-
-
     'name': 'customer sale relation ept',
     'version': '1.0',
     'category': 'Customer Sale',
